@@ -48,7 +48,7 @@ return {
 				}, --your header
 				center = {
 					{
-						icon = '[F] ',
+						icon = ' ',
 						icon_hl = 'Title',
 						desc = 'File explorer',
 						desc_hl = 'String',
@@ -59,7 +59,7 @@ return {
 						action = 'Ex'
 					},
 					{
-						icon = "[N] ",
+						icon = " ",
 						icon_hl = 'Title',
 						desc = 'New file',
 						desc_hl = 'String',
@@ -69,7 +69,7 @@ return {
 						action = 'enew'
 					},
 					{
-						icon = "[T] ",
+						icon = " ",
 						icon_hl = 'Title',
 						desc = 'Open terminal',
 						desc_hl = 'String',
@@ -79,7 +79,7 @@ return {
 						action = 'term'
 					},
 					{
-						icon = "[Q] ",
+						icon = " ",
 						icon_hl = 'Title',
 						desc = 'Quit',
 						desc_hl = 'String',
