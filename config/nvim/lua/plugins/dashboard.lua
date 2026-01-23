@@ -79,6 +79,16 @@ return {
 						action = 'term'
 					},
 					{
+						icon = " ",
+						icon_hl = 'Title',
+						desc = 'Run command',
+						desc_hl = 'String',
+						key = 'r',
+						key_hl = 'Number',
+						key_format = "[%s]",
+						action = 'CRun'
+					},
+					{
 						icon = " ",
 						icon_hl = 'Title',
 						desc = 'Quit',
@@ -95,4 +105,3 @@ return {
 	end,
 	dependencies = { "nvim-tree/nvim-web-devicons" },
 }
-
